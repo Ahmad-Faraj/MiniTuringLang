@@ -156,6 +156,15 @@ g++ -o interpreter interpreter.cpp
    ```
    This command processes `inputFile.txt` and provides the output based on the script's instructions.
 
+## Problem Solving Potential
+
+This project is a small step toward building an interpreter capable of executing code written in a custom-designed, pseudo-code-like language. While it is not yet fully equipped to solve competitive programming problems, it demonstrates the potential for creating a tool that can perform fundamental computations and handle basic programming logic.
+
+The initial inspiration came from my attempt at solving [Problem A from Codeforces Contest 2009](https://codeforces.com/contest/2009/problem/A). My solution to this problem can be found here: [Solution on Pastebin](https://l.facebook.com/l.php?u=https%3A%2F%2Fpastebin.com%2F4FPPt1Pp%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR0XPebJeLE--AvKuT0gX09S3ojFOBYFkdLoGDCsZnw5E_plm_mX-4hCPFg_aem_yTf5e3eL7GkMKtnbtpSy-A&h=AT2z2CziHjZzeHVRxwBR6rGGCHSJUZcxgyP1u4czQoXSf5XmA4ZUQkaUggbcpGiznXe3PB3BsmUfRtE4bfj2h5nBWdu41vuFz2g9x10kiO4GOPjS8Mz0DSshMThuZ20-Md4lPw).
+
+### Future Plans
+
+The project is a starting point with plans for future development. With time, we aim to enhance its capabilities and make it more robust, potentially enabling it to tackle more complex competitive programming problems more efficiently.
 
 ## Future Enhancements
 
