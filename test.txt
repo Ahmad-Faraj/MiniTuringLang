@@ -1,0 +1,61 @@
+# Comparison program
+
+x = 1000
+y = 5000
+
+if x >= y
+    println "x is greater than or equals y"
+
+if x < y
+    println "x is less than y"
+#===========================================
+# Factorial program
+
+result = 1
+iterations = 5
+print "the facorital of "
+print iterations
+
+# Loop to calculate factorial
+while iterations > 0
+    result = result * iterations
+    iterations = iterations - 1
+
+print " = "
+println result
+#===========================================
+# Evaluate Experessions program
+
+5 + 3
+
+2 * 3
+
+5 + 3 * 2
+
+( 5 + 3 ) * 2
+
+5 > 3
+
+5 > 3 && 10 < 20
+
+5 > 10 || 3 < 5
+
+( 5 > 3 ) && ( 10 < ( 2 + 2 ) )
+
+5 > 3 && 10 < 20 || 4 == 4
+
+5 || 3 * 2 == 6
+
+x = 10
+
+y = 20
+
+z = x + y
+
+ahmed = z + y / x
+
+ahmed
+
+5 ** 2 == 25
+
+( 2 ** 3 | 7 ) == ahmed - 17
