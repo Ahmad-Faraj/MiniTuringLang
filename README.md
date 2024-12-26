@@ -1,4 +1,4 @@
-# Turing-complete programming language
+# Non-Turing-Complete programming language
 
 ## Project Overview
 
